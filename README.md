@@ -17,15 +17,6 @@ I'm a **Computer Science student at King's College London**, focused on **backen
 
 ---
 
-### GitHub stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=17999zl&show_icons=true&theme=github-dark)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=17999zl&show_icons=true&layout=compact&theme=github-dark)
-
-*(Stats cards via [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))*  
-
----
 
 ### Featured projects
 

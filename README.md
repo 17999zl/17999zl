@@ -47,6 +47,6 @@ Security dashboard project focused on monitoring and event analysis.
 
 ###  Get in touch
 
-- [mionskowska2007@gmail.com]  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-slug/)  
+- mionskowska2007@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/maria-mionskowska-3483922a1/)  
 - [LeetCode](https://leetcode.com/1799zl/)
